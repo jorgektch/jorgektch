@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-  cout << "Holiwis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">\n";
+  cout << "Holiwis 🖖🏻\n";
   return 0;
 }
 ```
