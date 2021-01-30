@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #xd
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/jorgektch/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeKtch)](https://github.com/JorgeKtch/github-readme-stats)
 
 <!--
 **JorgeKtch/JorgeKtch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
