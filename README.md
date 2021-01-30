@@ -16,7 +16,7 @@
 
 #xd
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeKtch)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeKtch)
 
 #xd
 
