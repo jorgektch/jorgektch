@@ -6,8 +6,7 @@ int main(){
   return 0;
 }
 ```
-# Bienvenidos
-Hola a todos
+# Hello World! I'm Jorge Jesús (JorgeKtch) 👋
 
 ## Superpowers
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeKtch&layout=compact)
