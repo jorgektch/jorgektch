@@ -6,7 +6,7 @@ int main(){
   return 0;
 }
 ```
-<!--
+
 ### Superpowers
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeKtch&layout=compact)
--->
+
