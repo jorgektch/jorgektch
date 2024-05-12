@@ -11,6 +11,9 @@ int main(){
 ## Superpowers:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeKtch&layout=compact)
 
+## certifications:
+
+
 ## Social networks:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Jorge_Ktch-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@jorgektch)
