@@ -12,7 +12,7 @@ int main(){
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeKtch&layout=compact)
 
 ## Certifications:
-
+<a href="https://www.hackerrank.com/certificates/b3c31da9484e"><img src="https://hrcdn.net/fcore/assets/generated-badges/python_level_3_stars_5_others-048f6058f9.png" height=130 alt="Python (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
 
 ## Social networks:
 
