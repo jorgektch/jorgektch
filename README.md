@@ -11,7 +11,7 @@ int main(){
 ## Superpowers:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeKtch&layout=compact)
 
-## certifications:
+## Certifications:
 
 
 ## Social networks:
