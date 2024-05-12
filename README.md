@@ -1,4 +1,4 @@
-# Hello World! I'm Jorge Jesús (JorgeKtch) 👋
+# Hello World! I'm Jorge Jesús (@jorgektch) 👋
 ```
 #include <iostream>
 using namespace std;
