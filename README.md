@@ -8,10 +8,10 @@ int main(){
 }
 ```
 
-## Superpowers
+## Superpowers:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeKtch&layout=compact)
 
-## Encuéntrame en:
+## Social networks:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Jorge_Ktch-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@jorgektch)
 [![Twitter](https://img.shields.io/badge/Twitter-@JorgeKtch-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/jorgektch)
