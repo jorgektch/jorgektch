@@ -18,7 +18,7 @@ Hola a todos
 [![YouTube](https://img.shields.io/badge/YouTube-Jorge_Ktch-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@codehunterslab)
 </br>
 [![Twitch](https://img.shields.io/badge/Twitch-JorgeKtch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-v-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+[![Discord](https://img.shields.io/badge/Discord-JorgeKtch-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@JorgeKtch-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/jorgektch)
 [![Instagram](https://img.shields.io/badge/Instagram-@JorgeKtch-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/jorgektch)
