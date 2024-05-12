@@ -13,7 +13,7 @@ int main(){
 
 ## Certifications:
 <a href="https://www.hackerrank.com/certificates/b3c31da9484e"><img src="https://hrcdn.net/fcore/assets/generated-badges/python_level_3_stars_5_others-048f6058f9.png" height=130 alt="Python (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/a58d89c7f22e"><img src="https://hrcdn.net/fcore/assets/generated-badges/sql_level_3_stars_5_linkedin-eb9818e321.png" height=130 alt="SQL (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
+<a href="https://www.hackerrank.com/certificates/a58d89c7f22e"><img src="https://hrcdn.net/fcore/assets/generated-badges/sql_level_3_stars_5_others-eb9818e321.png" height=130 alt="SQL (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
 
 ## Social networks:
 
