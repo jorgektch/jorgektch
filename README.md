@@ -12,13 +12,13 @@ int main(){
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeKtch&layout=compact)
 
 ## Certifications:
-<a href="https://www.hackerrank.com/certificates/b3c31da9484e"><img src="https://github.com/jorgektch/jorgektch/blob/main/bagges/hackerrank-python-basic.png" height=130 alt="Python (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/7ec6a220d4de"><img src="https://github.com/jorgektch/jorgektch/blob/main/bagges/hackerrank-java-basic.png" height=130 alt="Java (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/a58d89c7f22e"><img src="https://github.com/jorgektch/jorgektch/blob/main/bagges/hackerrank-sql-basic.png" height=130 alt="SQL (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/43a835ad0e20"><img src="https://github.com/jorgektch/jorgektch/blob/main/bagges/hackerrank-sql-intermediate.png" height=130 alt="SQL (Intermediate) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/918114e94f07"><img src="https://github.com/jorgektch/jorgektch/blob/main/bagges/hackerrank-sql-advanced.png" height=130 alt="SQL (Advanced) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/40e48523d167"><img src="https://github.com/jorgektch/jorgektch/blob/main/bagges/hackerrank-javascript-basic.png" height=130 alt="JavaScript (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/abc426dd3bab"><img src="https://github.com/jorgektch/jorgektch/blob/main/bagges/hackerrank-angular-basic.png" height=130 alt="Angular (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
+<a href="https://www.hackerrank.com/certificates/b3c31da9484e"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-python-basic.png" height=130 alt="Python (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
+<a href="https://www.hackerrank.com/certificates/7ec6a220d4de"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-java-basic.png" height=130 alt="Java (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
+<a href="https://www.hackerrank.com/certificates/a58d89c7f22e"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-sql-basic.png" height=130 alt="SQL (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
+<a href="https://www.hackerrank.com/certificates/43a835ad0e20"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-sql-intermediate.png" height=130 alt="SQL (Intermediate) Certificate - Jorge Jesús Quispe Villaverde"></a>
+<a href="https://www.hackerrank.com/certificates/918114e94f07"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-sql-advanced.png" height=130 alt="SQL (Advanced) Certificate - Jorge Jesús Quispe Villaverde"></a>
+<a href="https://www.hackerrank.com/certificates/40e48523d167"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-javascript-basic.png" height=130 alt="JavaScript (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
+<a href="https://www.hackerrank.com/certificates/abc426dd3bab"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-angular-basic.png" height=130 alt="Angular (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
 
 ## Social networks:
 
