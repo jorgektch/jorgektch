@@ -1,32 +1,49 @@
-# Hello World! I'm Jorge Jesús (@jorgektch) 👋
-```
-#include <bits/stdc++.h>
-using namespace std;
-int main(){
-  cout << "Welcome 🖖🏻\n";
-  return 0;
-}
-```
+# Jorge Jesús Quispe Villaverde
+## AI Engineer and Consultant
 
-## Superpowers:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeKtch&layout=compact)
+I design, build, and deploy applications that use generative AI to support real business workflows.
 
-## Certifications:
-<a href="https://www.hackerrank.com/certificates/b3c31da9484e"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-python-basic.png" height=130 alt="Python (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/7ec6a220d4de"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-java-basic.png" height=130 alt="Java (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/a58d89c7f22e"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-sql-basic.png" height=130 alt="SQL (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/43a835ad0e20"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-sql-intermediate.png" height=130 alt="SQL (Intermediate) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/918114e94f07"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-sql-advanced.png" height=130 alt="SQL (Advanced) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/40e48523d167"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-javascript-basic.png" height=130 alt="JavaScript (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
-<a href="https://www.hackerrank.com/certificates/abc426dd3bab"><img src="https://github.com/jorgektch/jorgektch/blob/main/badges/hackerrank-angular-basic.png" height=130 alt="Angular (Basic) Certificate - Jorge Jesús Quispe Villaverde"></a>
+My work combines software architecture, Python backend development, conversational agents, full-stack delivery, and cloud deployment.
 
-## Social networks:
+### Selected client work
 
-[![YouTube](https://img.shields.io/badge/YouTube-Jorge_Ktch-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@jorgektch)
-[![Twitter](https://img.shields.io/badge/Twitter-@JorgeKtch-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/jorgektch)
-[![Instagram](https://img.shields.io/badge/Instagram-@JorgeKtch-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/jorgektch)
-[![Twitch](https://img.shields.io/badge/Twitch-JorgeKtch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/jorgektch)
-[![Discord](https://img.shields.io/badge/Discord-JorgeKtch-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/bNf9MrN2)
-[![TikTok](https://img.shields.io/badge/TikTok-@JorgeKtch-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@jorgektch)
-[![Facebook](https://img.shields.io/badge/Facebook-@JorgeKtch-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/jorgektch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge_Jesús-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jorgejesusquispevillaverde)
+- **Black Penguin AI** — Multi-tenant real-estate platform, onboarding and sales agents, Meta campaign integration, and Google Calendar workflows. Stack: Angular, Python, FastAPI, LangGraph, OpenRouter, PostgreSQL, Docker, and GitHub Actions. [Website](https://blackpenguin.ai/)
+- **WellGo Care** — Mental-health platform connecting patients with specialists, with a conversational AI assistant supporting users between appointments. Designed, implemented, and deployed the platform and assistant on GCP. [Website](https://wellgo.care/)
+- **Inti Wayra Travel** — Customer website and administration platform, Vertex AI image generation, and CI/CD to Cloud Run and Firebase Hosting. Stack: Angular, Python, FastAPI, GCP, Cloud SQL, Firebase, and GitHub Actions.
+
+Client repositories may be private. Their inclusion here describes my professional work and does not imply that the code is available under an open-source license.
+
+### AI mentoring and teaching
+
+AI Mentor at **1551 UNMSM** since June 2026.
+
+- Taught the AI Applied to Mentoring module of MENTOR TECH 1551.
+- Contributed to 1551 Tech Talks and delivered talks on Darwin Gödel Machine and AI regulation in Peru.
+- Mentored the Dar-Trace AI team in 1551 Biodigital.
+
+### Technical focus
+
+Python · FastAPI · Angular · SQL · PostgreSQL · LangGraph · OpenRouter · RAG · BigQuery · GCP · Vertex AI · Cloud Run · Docker · GitHub Actions
+
+### Background
+
+- AI Engineer at PANDERO: BigQuery-based RAG and embedding pipelines.
+- Data science and predictive-modeling experience on CONCYTEC-funded projects.
+- Software Engineering undergraduate studies at UNMSM, Peru.
+- Academic exchange at UNAM, Mexico.
+- Second place in the Kavak x OpenAI Hackathon 2025 with CrAItor.
+
+### Credentials
+
+- [HackerRank SQL Advanced](https://www.hackerrank.com/certificates/918114e94f07)
+- [HackerRank SQL Intermediate](https://www.hackerrank.com/certificates/43a835ad0e20)
+- [HackerRank Python Basic](https://www.hackerrank.com/certificates/b3c31da9484e)
+- [HackerRank Angular Basic](https://www.hackerrank.com/certificates/abc426dd3bab)
+
+### Contact
+
+Based in Lima, Peru. Open to relocation to Mexico City; employer sponsorship required for Mexican work authorization.
+
+Spanish: native. English: B1.
+
+[LinkedIn](https://www.linkedin.com/in/jorgejesusquispevillaverde/) · [Email](mailto:jorgektch@gmail.com)
