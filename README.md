@@ -1,77 +1,36 @@
-# Jorge Jesús Quispe Villaverde
+<h1 align="center">Jorge Jesús Quispe Villaverde</h1>
 
-### AI Engineer · AI Systems & Applied AI Research · Mentor
+<p align="center">
+  <strong>AI Engineer · Generative AI Engineer</strong><br>
+  Agentic AI · RAG · MCP · LLM Evaluation · Google Cloud<br><br>
+  <a href="https://www.linkedin.com/in/jorgejesusquispevillaverde/">LinkedIn</a> ·
+  <a href="mailto:jorgektch@gmail.com">Email</a>
+</p>
 
-**Building intelligent systems. Teaching how they work.**
+> **Retrieve the right context. Use the right tools. Validate the result.**
+>
+> I build AI systems that connect language models, data, and real-world workflows—with an emphasis on software architecture, reproducibility, and evaluation.
 
-I design, build, and deploy AI-powered software that connects language models, data, tools, and real business workflows.
+### Selected work · Explore the code
 
-My work spans **AI agents, Retrieval-Augmented Generation (RAG), backend engineering, cloud architecture, and full-stack development**. I also create open-source educational projects to make advanced AI concepts accessible through practical implementation.
+| Focus | Evidence |
+| :--- | :--- |
+| **AI Agents + MCP** | [Agent with MCP](https://github.com/jorgektch/tu-primer-agente-de-ia-con-mcp) — Python tool-calling agent, real MCP integration, Gemini/OpenRouter, and offline tests. |
+| **Retrieval-Augmented Generation** | [RAG from scratch](https://github.com/jorgektch/tu-primer-sistema-rag) — document chunking, TF-IDF retrieval, source references, evaluation, and optional LLM generation. |
+| **LLM Reliability** | [Reasoning robustness research](https://github.com/jorgektch/robustness-assessment-in-reasoning) — adversarial testing with separate attacker, solver, and judge roles. |
+| **Machine Learning Fundamentals** | [Neural network from scratch](https://github.com/jorgektch/tu-primera-red-neuronal) — NumPy MLP, training pipeline, and interactive browser demo. |
+| **Developer Experience** | [README to Slides](https://github.com/jorgektch/readme-to-slides) — open-source Markdown-to-presentation engine for technical workshops. |
 
-[LinkedIn](https://www.linkedin.com/in/jorgejesusquispevillaverde/) · [Email](mailto:jorgektch@gmail.com)
+### Applied AI · Beyond public repositories
 
----
+- **Enterprise AI:** document embedding and retrieval pipelines with Google Cloud and BigQuery; AI-assisted workflows for software products. *Client code is private.*
+- **Recognition:** **2nd place, Kavak × OpenAI Hackathon 2025** — *CrAItor*, a self-improving multi-agent system for generative advertising.
+- **Research & community:** AI mentor at **1551 UNMSM** · Software Engineering at **UNMSM** · Academic exchange at **UNAM**.
 
-## Learn AI by Building It
+**Engineering toolkit**
 
-An open-source learning journey from neural networks to intelligent applications.
-
-| Workshop | What you'll build | Explore |
-|---|---|---|
-| 🧠 **01 · Your First Neural Network** | A neural network from scratch with NumPy and an interactive classifier | [Repository](https://github.com/jorgektch/tu-primera-red-neuronal) |
-| 🤖 **02 · Your First AI Agent** | A tool-calling agent with Python, Gemini and OpenRouter | [Repository](https://github.com/jorgektch/tu-primer-agente-ia) |
-| 🔌 **03 · Your First MCP Server** | An MCP server and client exposing tools, resources and prompts | [Repository](https://github.com/jorgektch/tu-primer-servidor-mcp) |
-| 📚 **04 · Your First RAG System** | Embeddings, retrieval and grounded generation — *coming soon* | [Repository](https://github.com/jorgektch/tu-primer-sistema-rag) |
-
-**Each workshop combines theory, code, architecture diagrams, practical exercises, and interactive presentation materials.**
-
-### The Engine Behind the Workshops
-
-**[README to Slides](https://github.com/jorgektch/readme-to-slides)** is my open-source presentation template that turns GitHub Markdown into interactive slides powered by Reveal.js, Mermaid, and GitHub Pages.
-
-[Explore the template](https://github.com/jorgektch/readme-to-slides) · [View the demo](https://jorgektch.github.io/readme-to-slides/)
-
----
-
-## Engineering AI for Real-World Applications
-
-My professional work focuses on taking AI solutions beyond prototypes and integrating them into software products.
-
-**Selected projects:**
-
-- **Black Penguin AI:** Multi-tenant real-estate platform with AI-assisted onboarding, sales agents, Meta integrations, and Google Calendar workflows.
-- **WellGo Care:** Mental-health platform with a conversational AI assistant and cloud-based application infrastructure.
-- **Inti Wayra Travel:** Travel website and administration platform integrating AI image generation and cloud deployment.
-
-*Some client repositories are private. These descriptions summarize professional work rather than publicly available source code.*
+`Python` · `LangGraph` · `Gemini` · `OpenRouter` · `RAG` · `MCP` · `FastAPI` · `PostgreSQL` · `BigQuery` · `Vertex AI` · `Cloud Run` · `Docker` · `GitHub Actions`
 
 ---
 
-## Engineering Toolkit
-
-**AI & Agents:** Python · LangGraph · Gemini · OpenRouter · RAG · MCP
-
-**Backend & Data:** FastAPI · PostgreSQL · SQL · BigQuery
-
-**Cloud & Delivery:** Google Cloud Platform · Vertex AI · Cloud Run · Docker · GitHub Actions
-
-**Frontend:** Angular · JavaScript · HTML · CSS
-
----
-
-## Research, Community & Mentorship
-
-- AI Mentor at **1551 UNMSM**.
-- Experience building embedding and RAG pipelines at **PANDERO**.
-- Data science and predictive modeling experience in CONCYTEC-funded projects.
-- Software Engineering studies at **Universidad Nacional Mayor de San Marcos**.
-- Academic exchange at **Universidad Nacional Autónoma de México**.
-- Second place at the **Kavak x OpenAI Hackathon 2025**, with *CrAItor*.
-
----
-
-### Let's Connect
-
-Interested in AI engineering, technical collaboration, or practical AI education?
-
-[LinkedIn](https://www.linkedin.com/in/jorgejesusquispevillaverde/) · [Email me](mailto:jorgektch@gmail.com)
+<p align="center"><sub>Interested in AI Engineer and Generative AI Engineer opportunities in Mexico City (CDMX). For the full story, visit <a href="https://www.linkedin.com/in/jorgejesusquispevillaverde/">LinkedIn</a>.</sub></p>
