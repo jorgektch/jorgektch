@@ -1,4 +1,4 @@
-<h1 align="center">Jorge Jesús Quispe Villaverde</h1>
+<h1 align="center">Jorge Jesús</h1>
 
 <p align="center">
   <strong>AI Engineer · Generative AI Engineer</strong><br>
